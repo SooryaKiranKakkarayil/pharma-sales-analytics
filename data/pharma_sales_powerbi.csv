@@ -1,0 +1,553 @@
+Month,Category Code,Category Name,ATC Main Group,Units Sold
+2014-01-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,127.69
+2014-01-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,99.09
+2014-01-01,N02BA,Analgesic (salicylic acid),Nervous system,152.1
+2014-01-01,N02BE,Analgesic (paracetamol-type),Nervous system,878.03
+2014-01-01,N05B,Anxiolytics,Nervous system,354.0
+2014-01-01,N05C,Hypnotics & sedatives,Nervous system,30.0
+2014-01-01,R03,Airway disease drugs,Respiratory system,112.0
+2014-01-01,R06,Antihistamines,Respiratory system,48.2
+2014-02-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,133.32
+2014-02-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,126.05
+2014-02-01,N02BA,Analgesic (salicylic acid),Nervous system,177.0
+2014-02-01,N02BE,Analgesic (paracetamol-type),Nervous system,1001.9
+2014-02-01,N05B,Anxiolytics,Nervous system,347.0
+2014-02-01,N05C,Hypnotics & sedatives,Nervous system,31.0
+2014-02-01,R03,Airway disease drugs,Respiratory system,122.0
+2014-02-01,R06,Antihistamines,Respiratory system,36.2
+2014-03-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,137.44
+2014-03-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,92.95
+2014-03-01,N02BA,Analgesic (salicylic acid),Nervous system,147.66
+2014-03-01,N02BE,Analgesic (paracetamol-type),Nervous system,779.28
+2014-03-01,N05B,Anxiolytics,Nervous system,232.0
+2014-03-01,N05C,Hypnotics & sedatives,Nervous system,20.0
+2014-03-01,R03,Airway disease drugs,Respiratory system,112.0
+2014-03-01,R06,Antihistamines,Respiratory system,85.4
+2014-04-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,113.1
+2014-04-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,89.48
+2014-04-01,N02BA,Analgesic (salicylic acid),Nervous system,125.15
+2014-04-01,N02BE,Analgesic (paracetamol-type),Nervous system,698.5
+2014-04-01,N05B,Anxiolytics,Nervous system,209.0
+2014-04-01,N05C,Hypnotics & sedatives,Nervous system,18.0
+2014-04-01,R03,Airway disease drugs,Respiratory system,97.0
+2014-04-01,R06,Antihistamines,Respiratory system,73.7
+2014-05-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,101.79
+2014-05-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,119.93
+2014-05-01,N02BA,Analgesic (salicylic acid),Nervous system,132.1
+2014-05-01,N02BE,Analgesic (paracetamol-type),Nervous system,628.78
+2014-05-01,N05B,Anxiolytics,Nervous system,270.0
+2014-05-01,N05C,Hypnotics & sedatives,Nervous system,23.0
+2014-05-01,R03,Airway disease drugs,Respiratory system,107.0
+2014-05-01,R06,Antihistamines,Respiratory system,123.7
+2014-06-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,112.07
+2014-06-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,94.71
+2014-06-01,N02BA,Analgesic (salicylic acid),Nervous system,122.9
+2014-06-01,N02BE,Analgesic (paracetamol-type),Nervous system,548.22
+2014-06-01,N05B,Anxiolytics,Nervous system,323.0
+2014-06-01,N05C,Hypnotics & sedatives,Nervous system,23.0
+2014-06-01,R03,Airway disease drugs,Respiratory system,57.0
+2014-06-01,R06,Antihistamines,Respiratory system,109.3
+2014-07-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,117.06
+2014-07-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,95.01
+2014-07-01,N02BA,Analgesic (salicylic acid),Nervous system,129.3
+2014-07-01,N02BE,Analgesic (paracetamol-type),Nervous system,491.9
+2014-07-01,N05B,Anxiolytics,Nervous system,348.0
+2014-07-01,N05C,Hypnotics & sedatives,Nervous system,21.0
+2014-07-01,R03,Airway disease drugs,Respiratory system,61.0
+2014-07-01,R06,Antihistamines,Respiratory system,69.1
+2014-08-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,124.79
+2014-08-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,99.78
+2014-08-01,N02BA,Analgesic (salicylic acid),Nervous system,123.8
+2014-08-01,N02BE,Analgesic (paracetamol-type),Nervous system,547.35
+2014-08-01,N05B,Anxiolytics,Nervous system,420.0
+2014-08-01,N05C,Hypnotics & sedatives,Nervous system,29.0
+2014-08-01,R03,Airway disease drugs,Respiratory system,37.0
+2014-08-01,R06,Antihistamines,Respiratory system,70.8
+2014-09-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,108.78
+2014-09-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,109.09
+2014-09-01,N02BA,Analgesic (salicylic acid),Nervous system,112.1
+2014-09-01,N02BE,Analgesic (paracetamol-type),Nervous system,887.82
+2014-09-01,N05B,Anxiolytics,Nervous system,399.0
+2014-09-01,N05C,Hypnotics & sedatives,Nervous system,14.0
+2014-09-01,R03,Airway disease drugs,Respiratory system,115.0
+2014-09-01,R06,Antihistamines,Respiratory system,58.8
+2014-10-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,101.2
+2014-10-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,108.75
+2014-10-01,N02BA,Analgesic (salicylic acid),Nervous system,140.54
+2014-10-01,N02BE,Analgesic (paracetamol-type),Nervous system,1073.14
+2014-10-01,N05B,Anxiolytics,Nervous system,432.06
+2014-10-01,N05C,Hypnotics & sedatives,Nervous system,19.62
+2014-10-01,R03,Airway disease drugs,Respiratory system,160.0
+2014-10-01,R06,Antihistamines,Respiratory system,46.69
+2014-11-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,138.08
+2014-11-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,100.86
+2014-11-01,N02BA,Analgesic (salicylic acid),Nervous system,142.7
+2014-11-01,N02BE,Analgesic (paracetamol-type),Nervous system,723.8
+2014-11-01,N05B,Anxiolytics,Nervous system,489.0
+2014-11-01,N05C,Hypnotics & sedatives,Nervous system,19.0
+2014-11-01,R03,Airway disease drugs,Respiratory system,112.0
+2014-11-01,R06,Antihistamines,Respiratory system,45.2
+2014-12-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,131.9
+2014-12-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,121.4
+2014-12-01,N02BA,Analgesic (salicylic acid),Nervous system,111.12
+2014-12-01,N02BE,Analgesic (paracetamol-type),Nervous system,1015.66
+2014-12-01,N05B,Anxiolytics,Nervous system,492.0
+2014-12-01,N05C,Hypnotics & sedatives,Nervous system,25.0
+2014-12-01,R03,Airway disease drugs,Respiratory system,163.0
+2014-12-01,R06,Antihistamines,Respiratory system,33.4
+2015-01-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,135.91
+2015-01-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,130.35
+2015-01-01,N02BA,Analgesic (salicylic acid),Nervous system,141.0
+2015-01-01,N02BE,Analgesic (paracetamol-type),Nervous system,1044.24
+2015-01-01,N05B,Anxiolytics,Nervous system,463.0
+2015-01-01,N05C,Hypnotics & sedatives,Nervous system,24.0
+2015-01-01,R03,Airway disease drugs,Respiratory system,177.25
+2015-01-01,R06,Antihistamines,Respiratory system,42.0
+2015-02-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,115.71
+2015-02-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,123.74
+2015-02-01,N02BA,Analgesic (salicylic acid),Nervous system,131.83
+2015-02-01,N02BE,Analgesic (paracetamol-type),Nervous system,953.25
+2015-02-01,N05B,Anxiolytics,Nervous system,243.0
+2015-02-01,N05C,Hypnotics & sedatives,Nervous system,9.0
+2015-02-01,R03,Airway disease drugs,Respiratory system,208.0
+2015-02-01,R06,Antihistamines,Respiratory system,47.0
+2015-03-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,156.04
+2015-03-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,129.39
+2015-03-01,N02BA,Analgesic (salicylic acid),Nervous system,133.8
+2015-03-01,N02BE,Analgesic (paracetamol-type),Nervous system,1084.85
+2015-03-01,N05B,Anxiolytics,Nervous system,208.0
+2015-03-01,N05C,Hypnotics & sedatives,Nervous system,13.0
+2015-03-01,R03,Airway disease drugs,Respiratory system,170.0
+2015-03-01,R06,Antihistamines,Respiratory system,54.0
+2015-04-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,154.5
+2015-04-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,101.12
+2015-04-01,N02BA,Analgesic (salicylic acid),Nervous system,122.1
+2015-04-01,N02BE,Analgesic (paracetamol-type),Nervous system,940.17
+2015-04-01,N05B,Anxiolytics,Nervous system,192.0
+2015-04-01,N05C,Hypnotics & sedatives,Nervous system,5.0
+2015-04-01,R03,Airway disease drugs,Respiratory system,97.0
+2015-04-01,R06,Antihistamines,Respiratory system,112.0
+2015-05-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,160.02
+2015-05-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,119.12
+2015-05-01,N02BA,Analgesic (salicylic acid),Nervous system,136.04
+2015-05-01,N02BE,Analgesic (paracetamol-type),Nervous system,765.9
+2015-05-01,N05B,Anxiolytics,Nervous system,194.0
+2015-05-01,N05C,Hypnotics & sedatives,Nervous system,10.0
+2015-05-01,R03,Airway disease drugs,Respiratory system,100.0
+2015-05-01,R06,Antihistamines,Respiratory system,159.5
+2015-06-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,151.87
+2015-06-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,113.69
+2015-06-01,N02BA,Analgesic (salicylic acid),Nervous system,145.46
+2015-06-01,N02BE,Analgesic (paracetamol-type),Nervous system,715.41
+2015-06-01,N05B,Anxiolytics,Nervous system,217.0
+2015-06-01,N05C,Hypnotics & sedatives,Nervous system,12.0
+2015-06-01,R03,Airway disease drugs,Respiratory system,193.0
+2015-06-01,R06,Antihistamines,Respiratory system,125.8
+2015-07-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,175.61
+2015-07-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,113.81
+2015-07-01,N02BA,Analgesic (salicylic acid),Nervous system,125.5
+2015-07-01,N02BE,Analgesic (paracetamol-type),Nervous system,708.83
+2015-07-01,N05B,Anxiolytics,Nervous system,203.0
+2015-07-01,N05C,Hypnotics & sedatives,Nervous system,6.0
+2015-07-01,R03,Airway disease drugs,Respiratory system,60.0
+2015-07-01,R06,Antihistamines,Respiratory system,130.3
+2015-08-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,181.69
+2015-08-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,144.52
+2015-08-01,N02BA,Analgesic (salicylic acid),Nervous system,133.4
+2015-08-01,N02BE,Analgesic (paracetamol-type),Nervous system,790.79
+2015-08-01,N05B,Anxiolytics,Nervous system,265.5
+2015-08-01,N05C,Hypnotics & sedatives,Nervous system,15.0
+2015-08-01,R03,Airway disease drugs,Respiratory system,45.0
+2015-08-01,R06,Antihistamines,Respiratory system,83.7
+2015-09-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,166.22
+2015-09-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,134.12
+2015-09-01,N02BA,Analgesic (salicylic acid),Nervous system,110.4
+2015-09-01,N02BE,Analgesic (paracetamol-type),Nervous system,852.12
+2015-09-01,N05B,Anxiolytics,Nervous system,243.5
+2015-09-01,N05C,Hypnotics & sedatives,Nervous system,11.0
+2015-09-01,R03,Airway disease drugs,Respiratory system,91.0
+2015-09-01,R06,Antihistamines,Respiratory system,71.0
+2015-10-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,195.81
+2015-10-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,127.23
+2015-10-01,N02BA,Analgesic (salicylic acid),Nervous system,146.2
+2015-10-01,N02BE,Analgesic (paracetamol-type),Nervous system,1574.34
+2015-10-01,N05B,Anxiolytics,Nervous system,222.0
+2015-10-01,N05C,Hypnotics & sedatives,Nervous system,8.0
+2015-10-01,R03,Airway disease drugs,Respiratory system,184.0
+2015-10-01,R06,Antihistamines,Respiratory system,72.0
+2015-11-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,142.78
+2015-11-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,128.23
+2015-11-01,N02BA,Analgesic (salicylic acid),Nervous system,145.9
+2015-11-01,N02BE,Analgesic (paracetamol-type),Nervous system,1234.97
+2015-11-01,N05B,Anxiolytics,Nervous system,228.0
+2015-11-01,N05C,Hypnotics & sedatives,Nervous system,18.0
+2015-11-01,R03,Airway disease drugs,Respiratory system,165.0
+2015-11-01,R06,Antihistamines,Respiratory system,44.0
+2015-12-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,159.46
+2015-12-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,131.29
+2015-12-01,N02BA,Analgesic (salicylic acid),Nervous system,137.0
+2015-12-01,N02BE,Analgesic (paracetamol-type),Nervous system,1258.35
+2015-12-01,N05B,Anxiolytics,Nervous system,286.0
+2015-12-01,N05C,Hypnotics & sedatives,Nervous system,28.0
+2015-12-01,R03,Airway disease drugs,Respiratory system,231.0
+2015-12-01,R06,Antihistamines,Respiratory system,41.73
+2016-01-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,171.65
+2016-01-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,128.4
+2016-01-01,N02BA,Analgesic (salicylic acid),Nervous system,172.5
+2016-01-01,N02BE,Analgesic (paracetamol-type),Nervous system,1476.32
+2016-01-01,N05B,Anxiolytics,Nervous system,248.0
+2016-01-01,N05C,Hypnotics & sedatives,Nervous system,24.0
+2016-01-01,R03,Airway disease drugs,Respiratory system,174.0
+2016-01-01,R06,Antihistamines,Respiratory system,56.5
+2016-02-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,173.81
+2016-02-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,137.53
+2016-02-01,N02BA,Analgesic (salicylic acid),Nervous system,134.2
+2016-02-01,N02BE,Analgesic (paracetamol-type),Nervous system,1224.86
+2016-02-01,N05B,Anxiolytics,Nervous system,239.0
+2016-02-01,N05C,Hypnotics & sedatives,Nervous system,20.0
+2016-02-01,R03,Airway disease drugs,Respiratory system,245.0
+2016-02-01,R06,Antihistamines,Respiratory system,58.0
+2016-03-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,156.64
+2016-03-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,165.59
+2016-03-01,N02BA,Analgesic (salicylic acid),Nervous system,148.4
+2016-03-01,N02BE,Analgesic (paracetamol-type),Nervous system,1150.7
+2016-03-01,N05B,Anxiolytics,Nervous system,250.0
+2016-03-01,N05C,Hypnotics & sedatives,Nervous system,13.0
+2016-03-01,R03,Airway disease drugs,Respiratory system,253.0
+2016-03-01,R06,Antihistamines,Respiratory system,97.84
+2016-04-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,166.61
+2016-04-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,146.53
+2016-04-01,N02BA,Analgesic (salicylic acid),Nervous system,147.7
+2016-04-01,N02BE,Analgesic (paracetamol-type),Nervous system,998.34
+2016-04-01,N05B,Anxiolytics,Nervous system,292.0
+2016-04-01,N05C,Hypnotics & sedatives,Nervous system,18.0
+2016-04-01,R03,Airway disease drugs,Respiratory system,216.0
+2016-04-01,R06,Antihistamines,Respiratory system,162.4
+2016-05-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,167.36
+2016-05-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,120.86
+2016-05-01,N02BA,Analgesic (salicylic acid),Nervous system,130.55
+2016-05-01,N02BE,Analgesic (paracetamol-type),Nervous system,997.15
+2016-05-01,N05B,Anxiolytics,Nervous system,255.0
+2016-05-01,N05C,Hypnotics & sedatives,Nervous system,18.0
+2016-05-01,R03,Airway disease drugs,Respiratory system,131.0
+2016-05-01,R06,Antihistamines,Respiratory system,137.1
+2016-06-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,169.67
+2016-06-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,114.96
+2016-06-01,N02BA,Analgesic (salicylic acid),Nervous system,117.75
+2016-06-01,N02BE,Analgesic (paracetamol-type),Nervous system,760.05
+2016-06-01,N05B,Anxiolytics,Nervous system,280.5
+2016-06-01,N05C,Hypnotics & sedatives,Nervous system,20.0
+2016-06-01,R03,Airway disease drugs,Respiratory system,127.0
+2016-06-01,R06,Antihistamines,Respiratory system,134.8
+2016-07-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,194.53
+2016-07-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,141.02
+2016-07-01,N02BA,Analgesic (salicylic acid),Nervous system,137.9
+2016-07-01,N02BE,Analgesic (paracetamol-type),Nervous system,652.36
+2016-07-01,N05B,Anxiolytics,Nervous system,240.0
+2016-07-01,N05C,Hypnotics & sedatives,Nervous system,8.0
+2016-07-01,R03,Airway disease drugs,Respiratory system,109.0
+2016-07-01,R06,Antihistamines,Respiratory system,116.83
+2016-08-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,211.13
+2016-08-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,114.38
+2016-08-01,N02BA,Analgesic (salicylic acid),Nervous system,132.7
+2016-08-01,N02BE,Analgesic (paracetamol-type),Nervous system,686.38
+2016-08-01,N05B,Anxiolytics,Nervous system,275.5
+2016-08-01,N05C,Hypnotics & sedatives,Nervous system,12.0
+2016-08-01,R03,Airway disease drugs,Respiratory system,116.0
+2016-08-01,R06,Antihistamines,Respiratory system,85.3
+2016-09-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,172.96
+2016-09-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,126.22
+2016-09-01,N02BA,Analgesic (salicylic acid),Nervous system,116.7
+2016-09-01,N02BE,Analgesic (paracetamol-type),Nervous system,1118.7
+2016-09-01,N05B,Anxiolytics,Nervous system,307.0
+2016-09-01,N05C,Hypnotics & sedatives,Nervous system,18.0
+2016-09-01,R03,Airway disease drugs,Respiratory system,121.0
+2016-09-01,R06,Antihistamines,Respiratory system,69.3
+2016-10-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,186.76
+2016-10-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,142.06
+2016-10-01,N02BA,Analgesic (salicylic acid),Nervous system,160.15
+2016-10-01,N02BE,Analgesic (paracetamol-type),Nervous system,1583.69
+2016-10-01,N05B,Anxiolytics,Nervous system,290.83
+2016-10-01,N05C,Hypnotics & sedatives,Nervous system,11.0
+2016-10-01,R03,Airway disease drugs,Respiratory system,220.0
+2016-10-01,R06,Antihistamines,Respiratory system,60.9
+2016-11-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,166.85
+2016-11-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,116.85
+2016-11-01,N02BA,Analgesic (salicylic acid),Nervous system,133.85
+2016-11-01,N02BE,Analgesic (paracetamol-type),Nervous system,1062.69
+2016-11-01,N05B,Anxiolytics,Nervous system,234.17
+2016-11-01,N05C,Hypnotics & sedatives,Nervous system,27.0
+2016-11-01,R03,Airway disease drugs,Respiratory system,150.0
+2016-11-01,R06,Antihistamines,Respiratory system,51.2
+2016-12-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,169.32
+2016-12-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,135.06
+2016-12-01,N02BA,Analgesic (salicylic acid),Nervous system,122.82
+2016-12-01,N02BE,Analgesic (paracetamol-type),Nervous system,1624.34
+2016-12-01,N05B,Anxiolytics,Nervous system,226.33
+2016-12-01,N05C,Hypnotics & sedatives,Nervous system,18.0
+2016-12-01,R03,Airway disease drugs,Respiratory system,275.0
+2016-12-01,R06,Antihistamines,Respiratory system,34.9
+2017-01-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,181.9
+2017-01-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,150.99
+2017-01-01,N02BA,Analgesic (salicylic acid),Nervous system,191.27
+2017-01-01,N02BE,Analgesic (paracetamol-type),Nervous system,1439.36
+2017-01-01,N05B,Anxiolytics,Nervous system,443.75
+2017-01-01,N05C,Hypnotics & sedatives,Nervous system,34.17
+2017-01-01,R03,Airway disease drugs,Respiratory system,196.41
+2017-01-01,R06,Antihistamines,Respiratory system,61.75
+2017-02-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,159.99
+2017-02-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,125.34
+2017-02-01,N02BA,Analgesic (salicylic acid),Nervous system,122.88
+2017-02-01,N02BE,Analgesic (paracetamol-type),Nervous system,670.88
+2017-02-01,N05B,Anxiolytics,Nervous system,178.79
+2017-02-01,N05C,Hypnotics & sedatives,Nervous system,11.17
+2017-02-01,R03,Airway disease drugs,Respiratory system,140.33
+2017-02-01,R06,Antihistamines,Respiratory system,38.1
+2017-03-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,162.85
+2017-03-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,111.06
+2017-03-01,N02BA,Analgesic (salicylic acid),Nervous system,107.35
+2017-03-01,N02BE,Analgesic (paracetamol-type),Nervous system,612.5
+2017-03-01,N05B,Anxiolytics,Nervous system,165.0
+2017-03-01,N05C,Hypnotics & sedatives,Nervous system,9.0
+2017-03-01,R03,Airway disease drugs,Respiratory system,109.0
+2017-03-01,R06,Antihistamines,Respiratory system,100.1
+2017-04-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,155.61
+2017-04-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,101.22
+2017-04-01,N02BA,Analgesic (salicylic acid),Nervous system,100.5
+2017-04-01,N02BE,Analgesic (paracetamol-type),Nervous system,540.2
+2017-04-01,N05B,Anxiolytics,Nervous system,132.0
+2017-04-01,N05C,Hypnotics & sedatives,Nervous system,9.0
+2017-04-01,R03,Airway disease drugs,Respiratory system,180.88
+2017-04-01,R06,Antihistamines,Respiratory system,122.4
+2017-05-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,143.66
+2017-05-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,118.12
+2017-05-01,N02BA,Analgesic (salicylic acid),Nervous system,98.95
+2017-05-01,N02BE,Analgesic (paracetamol-type),Nervous system,547.94
+2017-05-01,N05B,Anxiolytics,Nervous system,148.0
+2017-05-01,N05C,Hypnotics & sedatives,Nervous system,23.0
+2017-05-01,R03,Airway disease drugs,Respiratory system,128.0
+2017-05-01,R06,Antihistamines,Respiratory system,161.81
+2017-06-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,122.33
+2017-06-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,103.01
+2017-06-01,N02BA,Analgesic (salicylic acid),Nervous system,99.6
+2017-06-01,N02BE,Analgesic (paracetamol-type),Nervous system,496.1
+2017-06-01,N05B,Anxiolytics,Nervous system,163.0
+2017-06-01,N05C,Hypnotics & sedatives,Nervous system,8.0
+2017-06-01,R03,Airway disease drugs,Respiratory system,163.0
+2017-06-01,R06,Antihistamines,Respiratory system,151.9
+2017-07-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,150.29
+2017-07-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,116.21
+2017-07-01,N02BA,Analgesic (salicylic acid),Nervous system,75.2
+2017-07-01,N02BE,Analgesic (paracetamol-type),Nervous system,479.35
+2017-07-01,N05B,Anxiolytics,Nervous system,219.0
+2017-07-01,N05C,Hypnotics & sedatives,Nervous system,15.0
+2017-07-01,R03,Airway disease drugs,Respiratory system,115.0
+2017-07-01,R06,Antihistamines,Respiratory system,81.1
+2017-08-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,170.15
+2017-08-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,112.47
+2017-08-01,N02BA,Analgesic (salicylic acid),Nervous system,84.4
+2017-08-01,N02BE,Analgesic (paracetamol-type),Nervous system,549.3
+2017-08-01,N05B,Anxiolytics,Nervous system,239.0
+2017-08-01,N05C,Hypnotics & sedatives,Nervous system,12.0
+2017-08-01,R03,Airway disease drugs,Respiratory system,75.0
+2017-08-01,R06,Antihistamines,Respiratory system,60.1
+2017-09-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,138.33
+2017-09-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,118.71
+2017-09-01,N02BA,Analgesic (salicylic acid),Nervous system,88.15
+2017-09-01,N02BE,Analgesic (paracetamol-type),Nervous system,863.75
+2017-09-01,N05B,Anxiolytics,Nervous system,223.0
+2017-09-01,N05C,Hypnotics & sedatives,Nervous system,23.0
+2017-09-01,R03,Airway disease drugs,Respiratory system,139.0
+2017-09-01,R06,Antihistamines,Respiratory system,66.9
+2017-10-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,137.64
+2017-10-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,88.74
+2017-10-01,N02BA,Analgesic (salicylic acid),Nervous system,100.4
+2017-10-01,N02BE,Analgesic (paracetamol-type),Nervous system,1184.35
+2017-10-01,N05B,Anxiolytics,Nervous system,226.0
+2017-10-01,N05C,Hypnotics & sedatives,Nervous system,15.0
+2017-10-01,R03,Airway disease drugs,Respiratory system,247.0
+2017-10-01,R06,Antihistamines,Respiratory system,51.0
+2017-11-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,163.85
+2017-11-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,119.78
+2017-11-01,N02BA,Analgesic (salicylic acid),Nervous system,104.45
+2017-11-01,N02BE,Analgesic (paracetamol-type),Nervous system,867.9
+2017-11-01,N05B,Anxiolytics,Nervous system,192.0
+2017-11-01,N05C,Hypnotics & sedatives,Nervous system,15.0
+2017-11-01,R03,Airway disease drugs,Respiratory system,196.0
+2017-11-01,R06,Antihistamines,Respiratory system,46.6
+2017-12-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,160.01
+2017-12-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,121.66
+2017-12-01,N02BA,Analgesic (salicylic acid),Nervous system,115.15
+2017-12-01,N02BE,Analgesic (paracetamol-type),Nervous system,1007.18
+2017-12-01,N05B,Anxiolytics,Nervous system,226.0
+2017-12-01,N05C,Hypnotics & sedatives,Nervous system,6.0
+2017-12-01,R03,Airway disease drugs,Respiratory system,204.0
+2017-12-01,R06,Antihistamines,Respiratory system,47.1
+2018-01-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,132.28
+2018-01-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,109.45
+2018-01-01,N02BA,Analgesic (salicylic acid),Nervous system,101.15
+2018-01-01,N02BE,Analgesic (paracetamol-type),Nervous system,1134.32
+2018-01-01,N05B,Anxiolytics,Nervous system,229.0
+2018-01-01,N05C,Hypnotics & sedatives,Nervous system,11.0
+2018-01-01,R03,Airway disease drugs,Respiratory system,219.0
+2018-01-01,R06,Antihistamines,Respiratory system,49.5
+2018-02-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,128.36
+2018-02-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,132.8
+2018-02-01,N02BA,Analgesic (salicylic acid),Nervous system,114.65
+2018-02-01,N02BE,Analgesic (paracetamol-type),Nervous system,1255.37
+2018-02-01,N05B,Anxiolytics,Nervous system,268.0
+2018-02-01,N05C,Hypnotics & sedatives,Nervous system,12.0
+2018-02-01,R03,Airway disease drugs,Respiratory system,224.25
+2018-02-01,R06,Antihistamines,Respiratory system,39.06
+2018-03-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,146.16
+2018-03-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,111.76
+2018-03-01,N02BA,Analgesic (salicylic acid),Nervous system,122.3
+2018-03-01,N02BE,Analgesic (paracetamol-type),Nervous system,999.12
+2018-03-01,N05B,Anxiolytics,Nervous system,381.0
+2018-03-01,N05C,Hypnotics & sedatives,Nervous system,42.0
+2018-03-01,R03,Airway disease drugs,Respiratory system,269.0
+2018-03-01,R06,Antihistamines,Respiratory system,85.5
+2018-04-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,170.02
+2018-04-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,107.72
+2018-04-01,N02BA,Analgesic (salicylic acid),Nervous system,84.6
+2018-04-01,N02BE,Analgesic (paracetamol-type),Nervous system,803.29
+2018-04-01,N05B,Anxiolytics,Nervous system,289.0
+2018-04-01,N05C,Hypnotics & sedatives,Nervous system,14.0
+2018-04-01,R03,Airway disease drugs,Respiratory system,229.0
+2018-04-01,R06,Antihistamines,Respiratory system,197.1
+2018-05-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,160.52
+2018-05-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,103.52
+2018-05-01,N02BA,Analgesic (salicylic acid),Nervous system,89.4
+2018-05-01,N02BE,Analgesic (paracetamol-type),Nervous system,644.65
+2018-05-01,N05B,Anxiolytics,Nervous system,259.0
+2018-05-01,N05C,Hypnotics & sedatives,Nervous system,13.0
+2018-05-01,R03,Airway disease drugs,Respiratory system,167.0
+2018-05-01,R06,Antihistamines,Respiratory system,213.04
+2018-06-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,141.18
+2018-06-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,114.23
+2018-06-01,N02BA,Analgesic (salicylic acid),Nervous system,86.8
+2018-06-01,N02BE,Analgesic (paracetamol-type),Nervous system,584.34
+2018-06-01,N05B,Anxiolytics,Nervous system,248.0
+2018-06-01,N05C,Hypnotics & sedatives,Nervous system,18.0
+2018-06-01,R03,Airway disease drugs,Respiratory system,101.0
+2018-06-01,R06,Antihistamines,Respiratory system,120.8
+2018-07-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,150.18
+2018-07-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,132.55
+2018-07-01,N02BA,Analgesic (salicylic acid),Nervous system,87.2
+2018-07-01,N02BE,Analgesic (paracetamol-type),Nervous system,679.35
+2018-07-01,N05B,Anxiolytics,Nervous system,283.0
+2018-07-01,N05C,Hypnotics & sedatives,Nervous system,19.0
+2018-07-01,R03,Airway disease drugs,Respiratory system,90.0
+2018-07-01,R06,Antihistamines,Respiratory system,122.2
+2018-08-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,140.0
+2018-08-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,114.72
+2018-08-01,N02BA,Analgesic (salicylic acid),Nervous system,88.25
+2018-08-01,N02BE,Analgesic (paracetamol-type),Nervous system,733.84
+2018-08-01,N05B,Anxiolytics,Nervous system,253.0
+2018-08-01,N05C,Hypnotics & sedatives,Nervous system,20.0
+2018-08-01,R03,Airway disease drugs,Respiratory system,159.0
+2018-08-01,R06,Antihistamines,Respiratory system,103.1
+2018-09-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,153.52
+2018-09-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,114.99
+2018-09-01,N02BA,Analgesic (salicylic acid),Nervous system,86.5
+2018-09-01,N02BE,Analgesic (paracetamol-type),Nervous system,1058.26
+2018-09-01,N05B,Anxiolytics,Nervous system,263.0
+2018-09-01,N05C,Hypnotics & sedatives,Nervous system,12.0
+2018-09-01,R03,Airway disease drugs,Respiratory system,205.0
+2018-09-01,R06,Antihistamines,Respiratory system,88.1
+2018-10-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,144.71
+2018-10-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,129.4
+2018-10-01,N02BA,Analgesic (salicylic acid),Nervous system,76.05
+2018-10-01,N02BE,Analgesic (paracetamol-type),Nervous system,1129.28
+2018-10-01,N05B,Anxiolytics,Nervous system,287.0
+2018-10-01,N05C,Hypnotics & sedatives,Nervous system,25.0
+2018-10-01,R03,Airway disease drugs,Respiratory system,327.0
+2018-10-01,R06,Antihistamines,Respiratory system,76.9
+2018-11-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,172.29
+2018-11-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,105.49
+2018-11-01,N02BA,Analgesic (salicylic acid),Nervous system,102.15
+2018-11-01,N02BE,Analgesic (paracetamol-type),Nervous system,995.15
+2018-11-01,N05B,Anxiolytics,Nervous system,252.2
+2018-11-01,N05C,Hypnotics & sedatives,Nervous system,22.0
+2018-11-01,R03,Airway disease drugs,Respiratory system,311.0
+2018-11-01,R06,Antihistamines,Respiratory system,48.4
+2018-12-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,147.71
+2018-12-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,113.02
+2018-12-01,N02BA,Analgesic (salicylic acid),Nervous system,84.75
+2018-12-01,N02BE,Analgesic (paracetamol-type),Nervous system,1213.95
+2018-12-01,N05B,Anxiolytics,Nervous system,254.0
+2018-12-01,N05C,Hypnotics & sedatives,Nervous system,27.0
+2018-12-01,R03,Airway disease drugs,Respiratory system,354.0
+2018-12-01,R06,Antihistamines,Respiratory system,53.1
+2019-01-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,179.7
+2019-01-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,189.65
+2019-01-01,N02BA,Analgesic (salicylic acid),Nervous system,99.7
+2019-01-01,N02BE,Analgesic (paracetamol-type),Nervous system,1660.61
+2019-01-01,N05B,Anxiolytics,Nervous system,295.2
+2019-01-01,N05C,Hypnotics & sedatives,Nervous system,23.0
+2019-01-01,R03,Airway disease drugs,Respiratory system,386.0
+2019-01-01,R06,Antihistamines,Respiratory system,41.3
+2019-02-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,133.73
+2019-02-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,142.16
+2019-02-01,N02BA,Analgesic (salicylic acid),Nervous system,110.2
+2019-02-01,N02BE,Analgesic (paracetamol-type),Nervous system,1001.21
+2019-02-01,N05B,Anxiolytics,Nervous system,249.4
+2019-02-01,N05C,Hypnotics & sedatives,Nervous system,12.0
+2019-02-01,R03,Airway disease drugs,Respiratory system,226.0
+2019-02-01,R06,Antihistamines,Respiratory system,69.5
+2019-03-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,154.52
+2019-03-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,113.12
+2019-03-01,N02BA,Analgesic (salicylic acid),Nervous system,83.35
+2019-03-01,N02BE,Analgesic (paracetamol-type),Nervous system,941.05
+2019-03-01,N05B,Anxiolytics,Nervous system,301.4
+2019-03-01,N05C,Hypnotics & sedatives,Nervous system,19.0
+2019-03-01,R03,Airway disease drugs,Respiratory system,257.0
+2019-03-01,R06,Antihistamines,Respiratory system,169.5
+2019-04-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,161.39
+2019-04-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,100.16
+2019-04-01,N02BA,Analgesic (salicylic acid),Nervous system,88.1
+2019-04-01,N02BE,Analgesic (paracetamol-type),Nervous system,647.65
+2019-04-01,N05B,Anxiolytics,Nervous system,299.4
+2019-04-01,N05C,Hypnotics & sedatives,Nervous system,22.0
+2019-04-01,R03,Airway disease drugs,Respiratory system,219.0
+2019-04-01,R06,Antihistamines,Respiratory system,179.1
+2019-05-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,168.04
+2019-05-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,97.26
+2019-05-01,N02BA,Analgesic (salicylic acid),Nervous system,104.1
+2019-05-01,N02BE,Analgesic (paracetamol-type),Nervous system,703.56
+2019-05-01,N05B,Anxiolytics,Nervous system,265.8
+2019-05-01,N05C,Hypnotics & sedatives,Nervous system,26.0
+2019-05-01,R03,Airway disease drugs,Respiratory system,298.29
+2019-05-01,R06,Antihistamines,Respiratory system,135.4
+2019-06-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,151.54
+2019-06-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,101.63
+2019-06-01,N02BA,Analgesic (salicylic acid),Nervous system,103.2
+2019-06-01,N02BE,Analgesic (paracetamol-type),Nervous system,610.0
+2019-06-01,N05B,Anxiolytics,Nervous system,193.0
+2019-06-01,N05C,Hypnotics & sedatives,Nervous system,25.0
+2019-06-01,R03,Airway disease drugs,Respiratory system,142.0
+2019-06-01,R06,Antihistamines,Respiratory system,156.04
+2019-07-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,181.0
+2019-07-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,103.54
+2019-07-01,N02BA,Analgesic (salicylic acid),Nervous system,92.8
+2019-07-01,N02BE,Analgesic (paracetamol-type),Nervous system,620.67
+2019-07-01,N05B,Anxiolytics,Nervous system,250.6
+2019-07-01,N05C,Hypnotics & sedatives,Nervous system,20.0
+2019-07-01,R03,Airway disease drugs,Respiratory system,115.0
+2019-07-01,R06,Antihistamines,Respiratory system,105.2
+2019-08-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,181.91
+2019-08-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,88.27
+2019-08-01,N02BA,Analgesic (salicylic acid),Nervous system,84.2
+2019-08-01,N02BE,Analgesic (paracetamol-type),Nervous system,518.1
+2019-08-01,N05B,Anxiolytics,Nervous system,237.0
+2019-08-01,N05C,Hypnotics & sedatives,Nervous system,26.0
+2019-08-01,R03,Airway disease drugs,Respiratory system,145.0
+2019-08-01,R06,Antihistamines,Respiratory system,97.3
+2019-09-01,M01AB,Anti-inflammatory (acetic acid),Musculo-skeletal system,161.07
+2019-09-01,M01AE,Anti-inflammatory (propionic acid),Musculo-skeletal system,111.44
+2019-09-01,N02BA,Analgesic (salicylic acid),Nervous system,93.5
+2019-09-01,N02BE,Analgesic (paracetamol-type),Nervous system,984.48
+2019-09-01,N05B,Anxiolytics,Nervous system,227.8
+2019-09-01,N05C,Hypnotics & sedatives,Nervous system,16.0
+2019-09-01,R03,Airway disease drugs,Respiratory system,121.42
+2019-09-01,R06,Antihistamines,Respiratory system,109.1

@@ -1,0 +1,8 @@
+~$*
+*.tmp
+__pycache__/
+.venv/
+.DS_Store
+Thumbs.db
+# raw Kaggle files are not redistributed here
+data/raw/
