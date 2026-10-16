@@ -2,7 +2,7 @@
 
 An end-to-end analysis of pharmacy sales volume, 2014-2019, using Python (pandas) for cleaning, Excel for structuring and pivoting the data, and Power BI for an interactive report with DAX year-over-year measures.
 
-<!-- TODO: add your own name / LinkedIn / date here if you want -->
+
 
 ## Problem statement
 
@@ -44,9 +44,6 @@ File: [`excel/pharma_sales_analysis.xlsx`](excel/pharma_sales_analysis.xlsx)
 - A native **PivotTable** (ATC group > category by year, with partial months filtered out).
 - A `Notes` sheet documenting assumptions.
 
-<!-- TODO: screenshots of the Excel dashboard and the pivot -->
-![Excel dashboard](screenshots/excel_dashboard.png)
-![Excel PivotTable](screenshots/excel_pivot.png)
 
 ## Power BI report
 
