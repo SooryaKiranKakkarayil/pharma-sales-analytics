@@ -66,8 +66,8 @@ The calendar table ends at the last complete month (30 Sep 2019), so 2019 is com
 **Page contents:** year slicer, category slicer, total-units card, yearly table (units, prior-year units, YoY %), monthly line chart (this year vs prior year), and a category bar chart.
 
 <!-- TODO: add your screenshots, saved with these file names -->
-![Power BI dashboard, all data](screenshots/powerbi_dashboard_overview.png)
-![Power BI dashboard, filtered to one category](screenshots/powerbi_dashboard_filtered.png)
+![Power BI dashboard, all data](screenshots/powerbi_dashboard_overview.jpg)
+![Power BI dashboard, filtered to one category](screenshots/powerbi_dashboard_filtered.jpg)
 
 ## Insights
 
